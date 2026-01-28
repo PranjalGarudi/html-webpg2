@@ -2,8 +2,6 @@
 
 **Move It** is a modern, responsive **landing page website** built using **HTML5, Bootstrap 5, and minimal custom CSS**. The project represents a startup moving company focused on providing a stress-free, joyful moving experience across the US.
 
-This project demonstrates effective use of **Bootstrap components**, layout systems, and responsive design principles, making it ideal for **college projects, frontend practice, and portfolio showcases**.
-
 ---
 
 ## 🎯 Project Purpose
